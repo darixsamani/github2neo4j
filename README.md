@@ -4,7 +4,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/darixsamani/Github2Neo4j?style=flat-square)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/darixsamani/Github2Neo4j?style=flat-square)
 
-![License](https://img.shields.io/github/license/darixsamani/Github2Neo4j?style=flat-square)
+![License](https://img.shields.io/github/license/darixsamani/github2neo4j?style=flat-square)
 
 ![Neo4j](https://img.shields.io/badge/Neo4j-Graph%20Database-008CC1?logo=neo4j&logoColor=white&style=flat-square)
 ![GitHub API](https://img.shields.io/badge/GitHub-API-181717?logo=github&logoColor=white&style=flat-square)
